@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Antika Noor</h1>
-<h3 align="center">Trainee Software Engineer(MERN)|BJIT Academy</h3>
+<h3 align="center">Software Engineer|BJIT Group</h3>
 
-- 🔭 I’m currently working **as a Trainee Software Engineer(MERN) at BJIT Academy. Here, I am learning Full Stack Web Development.**
+- 🔭 I’m currently working **as a Software Engineer at BJIT Group.**
 
-- 🌱 I’m currently learning **to build websites using MERN.**
+- 🌱 I’m currently learning **to build websites using MERN stack.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ant017](https://github.com/Ant017)
+- 👨‍💻 All of my projects are available at [https://github.com/antika11787](https://github.com/antika11787)
 
 - 💬 Ask me about **React, Node, MongoDB**
 
-- 📫 How to reach me **antika.noor@bjitacademy.com**
+- 📫 How to reach me **antika.noor@bjitgroup.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
